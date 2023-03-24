@@ -8,7 +8,7 @@
 
 **Other:** [MATLAB, SOLIDWORKS, LABVIEW, Embedded Systems Design - Arduino Uno microcontroller board wiring and integration into LABVIEW]
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=HamzehSamhouri&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=HamzehSamhouri&theme=transparent)](https://git.io/streak-stats)
 
 
 ## Connect with me on [LinkedIn](http://www.linkedin.com/in/hamzehsamhouri).
