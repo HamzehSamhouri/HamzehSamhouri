@@ -1,4 +1,4 @@
-# Hello, I'm Hamzeh Samhouri! 
+![Header](github-header-image.png)
 
 **Technical Languages:** [​Python, JavaScript, Java, SQL, HTML5, CSS​]
 
